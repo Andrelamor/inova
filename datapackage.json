@@ -76,7 +76,11 @@
             "title": "Value"
           }
         ]
-      }
+      },
+      "title": "Amostra 2",
+      "format": "csv",
+      "encoding": "utf-8",
+      "description": "Amostra 2 para teste de workshop"
     }
   ],
   "keywords": [
