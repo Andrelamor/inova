@@ -1,11 +1,11 @@
-id;country;city
-1;London;Britain
-2;Berlin;Germany
-3;Paris;France
-4;Madrid;Spain
-5;Rome;Italy
-6;Zagreb;Croatia
-7;Athens;Greece
-8;Vienna;Austria
-8;Poland; Warsaw
-9;Tokio;Japan
+id;country;city;value
+1;London;Britain;12,07
+2;Berlin;Germany;12,07
+3;Paris;France;12,07
+4;Madrid;Spain;12,07
+5;Rome;Italy;12,07
+6;Zagreb;Croatia;12,07
+7;Athens;Greece;12,07
+8;Vienna;Austria;12,07
+8;Poland; Warsaw;12,07
+9;Tokio;Japan;12,07
