@@ -1,0 +1,104 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "sample1",
+      "path": "csv-sample.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "format": "default",
+            "title": "ID",
+            "description": "ID"
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "format": "default",
+            "title": "Country"
+          },
+          {
+            "name": "city",
+            "type": "string",
+            "format": "default",
+            "title": "City"
+          },
+          {
+            "name": "value",
+            "type": "integer",
+            "format": "default",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Amostra 1",
+      "format": "csv",
+      "encoding": "utf-8",
+      "description": "Amostra 1 para teste de workshop"
+    },
+    {
+      "name": "sample2",
+      "path": "csv-sample2.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "format": "default",
+            "title": "ID"
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "format": "default",
+            "title": "Country"
+          },
+          {
+            "name": "city",
+            "type": "string",
+            "format": "default",
+            "title": "City"
+          },
+          {
+            "name": "date",
+            "type": "date",
+            "format": "default",
+            "title": "Date"
+          },
+          {
+            "name": "value",
+            "type": "integer",
+            "format": "default",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    "datapackage",
+    "goodtables",
+    "frictionless data"
+  ],
+  "name": "sample",
+  "title": "Amostra",
+  "description": "Amostra para teste de workshop",
+  "homepage": "https://github.com/Andrelamor/inova",
+  "contributors": [
+    {
+      "title": "André Amorim",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}
