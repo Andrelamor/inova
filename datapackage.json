@@ -30,7 +30,8 @@
             "name": "value",
             "type": "number",
             "format": "default",
-            "title": "Value"
+            "title": "Value",
+            "decimalChar": ";"
           }
         ]
       },
@@ -73,7 +74,8 @@
             "name": "value",
             "type": "number",
             "format": "default",
-            "title": "Value"
+            "title": "Value",
+            "decimalChar": ";"
           }
         ]
       },
